@@ -88,3 +88,21 @@ p {
     flex-direction: column;
     text-align: center;
 }
+
+.contact-header {
+    font-size: 24px;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+input {
+    margin: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+#form-btn {
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
